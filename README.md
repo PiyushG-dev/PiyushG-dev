@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Piyush</h1>
-<h3 align="left">I am a Full-stack web developer and a UX designer and I can produce deep and distinct digital products, I follow a function over form approach without compromising the looks of the UI either. I love a good design too so bringing the blend of minimalism to a great functional product is always my first and foremost goal.</h3>
+<h3 align="left">I am a Full-stack developer and a UX designer and I can produce deep and distinct digital products, I follow a function over form approach without compromising the looks of the UI either. I love a good design too so bringing the blend of minimalism to a great functional product is always my first and foremost goal.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushg-dev" alt="piyushg-dev" /></a> </p>
 
