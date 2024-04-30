@@ -11,13 +11,9 @@
 
 - 👯 I’m looking to collaborate on **B2B saas companies.**
 
-- 👨‍💻 All of my projects are available at [github.com/piyushG-dev](github.com/piyushG-dev)
-
 - 💬 Ask me about **react, OOP , javascript.**
 
 - 📫 How to reach me **pjgpiyush@gmail.com**
-
-- ⚡ Fun fact **very optimistic about tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
